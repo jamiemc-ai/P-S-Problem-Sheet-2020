@@ -2,6 +2,6 @@
 # a string and outputs every second letter 
 # in reverse order
 
-sentence = input("enter sentence:")
-sentence = [::-1]
+sentence = input("enter string:")
+sentence [::-2]
 print("here is youre string reversed and every second letter is :")
