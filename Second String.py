@@ -4,4 +4,4 @@
 
 sentence = input("enter string:")
 sentence [::-2]
-print("here is youre string reversed and every second letter is :")
+print("here is youre string reversed and every second letter is :",sentence[::-2])
